@@ -16,3 +16,4 @@ GITHUB tutorials with commands
 8. git remote add origin 'remote git repository'
 - This  will add the master branch which is currently in use to origin remote endpoint.
 9. git push origin master
+- command for copying the local master branch files to remote branch endpoint.
