@@ -17,3 +17,5 @@ GITHUB tutorials with commands
 - This  will add the master branch which is currently in use to origin remote endpoint.
 9. git push origin master
 - command for copying the local master branch files to remote branch endpoint.
+10. git clone remoterepository url
+- For cloning the repository present in url like github.
