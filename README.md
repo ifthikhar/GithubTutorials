@@ -21,3 +21,7 @@ GITHUB tutorials with commands
 - For cloning the repository present in url like github.
 11. git pull 
 - For using the lastest uploaded file in github.
+
+NOTE:
+
+The above files are created during the reading process.
