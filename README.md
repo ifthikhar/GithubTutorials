@@ -19,3 +19,5 @@ GITHUB tutorials with commands
 - command for copying the local master branch files to remote branch endpoint.
 10. git clone remoterepository url
 - For cloning the repository present in url like github.
+11. git pull 
+- For using the lastest uploaded file in github.
